@@ -1,4 +1,4 @@
-# viniciusgomes
+# Olá! Eu sou o Vinicius🖐
 <div align="center">
   <a href="https://github.com/vinicius51547">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinicius51547&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -10,6 +10,8 @@
   <img align="center" alt="Vini-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Vini-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Vini-PHP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
+  <img align="center" alt="Vini-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg">
+
 </div>
   
   ##
